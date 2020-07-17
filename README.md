@@ -1,6 +1,5 @@
 # [![waylon walker header](https://firebasestorage.googleapis.com/v0/b/darshit-portfolio-android-app.appspot.com/o/Darshit%20Gajjar.png?alt=media&token=411b7ea0-9faa-4739-8047-0bacb11a996f)](http://darshitportfolio.web.app/)
 <p align='center'>
-<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/darshit_19981/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darshit-gajjar-532098152/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://play.google.com/store/apps/details?id=com.darshitportfolio"><img height="30" src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png"></a>
