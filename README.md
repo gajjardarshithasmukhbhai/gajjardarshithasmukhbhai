@@ -3,11 +3,12 @@
 <a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/darshit_19981/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darshit-gajjar-532098152/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://play.google.com/store/apps/details?id=com.darshitportfolio"><img height="30" src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png"></a>
 </p>
 
 Hey there 👋,
 
-I create App, Website and open source packages mainly about Javascript.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
+I create App, Website and open source packages mainly about Javascript.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [http://darshitportfolio.web.app/](http://darshitportfolio.web.app/).  If you found value in something I have created, please feel free to send a Message in LinkedIn[tip](https://www.linkedin.com/in/darshit-gajjar-532098152/), give some ♥ on LinkedIn
  
   ---
  
