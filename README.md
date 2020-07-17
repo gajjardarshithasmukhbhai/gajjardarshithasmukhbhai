@@ -28,78 +28,7 @@ I love open source Technology. I have Good Experience making android app and bui
 
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+In my Github repo I have My Data-structure Algorithem, my E-commerce website that I make in various Technology like reactJs, Node Js and other supportive library. I am strict in coding guideline. college time I am not care of this things.but after joining Industry I am very strict about it. I follow Airbnb coding guideline for javascript.
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
-[Latest Post 👉](https://waylonwalker.com/latest)
-
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
- 
-</details>
-
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
-
----
-
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _243_
-
-<a href='https://twitter.com/movieChessTech'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1210796823415148546/ZyNfj_v1_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/movieChessTech'>
-    musicMovieChessAndTech
-</a>
-
-Here for music, movies, chess, science & technology
-
-<h2></h2><a href='https://twitter.com/sudo_overflow'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1272109308826681344/t4XNLk9c_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/sudo_overflow'>
-    Cyris ⭐️
-</a>
-
-ᴅᴇᴠᴇʟᴏᴘᴇʀ - JavaScript - Maker - 3DPrinting - Home Automation - Gaming - Technology - Memes - Dad Jokes - #BlackLivesMatter - 💰 = Sponsored
-
-<h2></h2><a href='https://twitter.com/romanjamesmirov'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1196657278348214274/N3vIlFFo_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/romanjamesmirov'>
-    Roman
-</a>
-
-Seeking a JS job! Current status: getting certified in everything, 0/6 short-term projects done
-
-<h2></h2><a href='https://twitter.com/csaltos'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1220011932184465414/tN6G5Pbx_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/csaltos'>
-    Carlos Saltos
-</a>
-
-Coding with Scala, Elixir, Haskell, Python, Javascript, Rust and Ruby. Co-Founder of @Talenteca
-
-<h2></h2><a href='https://twitter.com/CicmilJovan'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1225691666108932097/4e_9Gar2_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/CicmilJovan'>
-    Jovan C
-</a>
-
-Writer on Medium: https://t.co/64ElkR0Su0 /// Programmer on Upwork: https://t.co/tbTKejYsoe
-
-<h2></h2>
-
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
