@@ -15,12 +15,6 @@ I create App, Website and open source packages mainly about Javascript.  I have 
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-## My skills
-
-<p align="center">
-  <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
-</p>
-
 ### 72 projects Experience
 
 I love open source Technology. I have Good Experience making android app and build Scalable Web-App. I have Good Experience in REACT JS, ANGULAR 8.0, REACT NATIVE, FIREBASE and AI. I have done 72 projects in various technology like php, Mern stack, Mean stack and React native also but currently you see few of my projects because other projects are private mode.In private mode my diffrent api and other projects are running
@@ -29,6 +23,12 @@ I love open source Technology. I have Good Experience making android app and bui
 
 <p>
   <a href="https://firebasestorage.googleapis.com/v0/b/darshit-portfolio-android-app.appspot.com/o/Darshit%20Gajjar%20(1).png?alt=media&token=1a611e19-aafd-4715-8721-0407d1dc3ed7"><img width="400" align='right' src="https://firebasestorage.googleapis.com/v0/b/darshit-portfolio-android-app.appspot.com/o/Darshit%20Gajjar%20(1).png?alt=media&token=1a611e19-aafd-4715-8721-0407d1dc3ed7"></a>
+</p>
+
+## My skills
+
+<p align="center">
+  <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
 </p>
 
 ### My Digital Garden 🌱
