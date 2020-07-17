@@ -23,7 +23,7 @@ I love open source Technology. I have Good Experience making android app and bui
  ---
 
 <p>
-  <a href="https://firebasestorage.googleapis.com/v0/b/darshit-portfolio-android-app.appspot.com/o/Darshit%20Gajjar%20(1).png?alt=media&token=1a611e19-aafd-4715-8721-0407d1dc3ed7"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://firebasestorage.googleapis.com/v0/b/darshit-portfolio-android-app.appspot.com/o/Darshit%20Gajjar%20(1).png?alt=media&token=1a611e19-aafd-4715-8721-0407d1dc3ed7"><img width="400" align='right' src="https://firebasestorage.googleapis.com/v0/b/darshit-portfolio-android-app.appspot.com/o/Darshit%20Gajjar%20(1).png?alt=media&token=1a611e19-aafd-4715-8721-0407d1dc3ed7"></a>
 </p>
 
 ### My Digital Garden 🌱
