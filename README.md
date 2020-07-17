@@ -30,5 +30,5 @@ I love open source Technology. I have Good Experience making android app and bui
 
 In my Github repo I have My Data-structure Algorithem, my E-commerce website that I make in various Technology like reactJs, Node Js and other supportive library. I am strict in coding guideline. college time I am not care of this things.but after joining Industry I am very strict about it. I follow Airbnb coding guideline for javascript.
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **javascript**. 
 
