@@ -36,3 +36,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 <p align="center">
   <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=gajjardarshithasmukhbhai&style=flat-square&label=PROFILE+VIEWS)
+
