@@ -2,7 +2,7 @@
 <p align='center'>
 <a href="https://www.instagram.com/darshit_19981/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darshit-gajjar-532098152/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-<a href="https://play.google.com/store/apps/details?id=com.darshitportfolio"><img height="30" src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png"></a>
+<a href="https://play.google.com/store/apps/developer?id=Gajjar+Darshit+Hasmukhbhai"><img height="30" src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png"></a>
 </p>
 
 Hey there 👋,
