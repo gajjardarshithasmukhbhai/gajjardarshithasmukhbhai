@@ -7,7 +7,7 @@
 
 Hey there 👋,
 
-I create App, Website and open source packages mainly about Javascript.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [http://darshitportfolio.web.app/](http://darshitgajjar.com/).  If you found value in something I have created, please feel free to send a Message in LinkedIn (https://www.linkedin.com/in/darshit-gajjar-532098152/), give some ♥ on LinkedIn
+I create App, Website and open source packages mainly about Javascript.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [http://darshitgajjar.com/](http://darshitgajjar.com/).  If you found value in something I have created, please feel free to send a Message in LinkedIn (https://www.linkedin.com/in/darshit-gajjar-532098152/), give some ♥ on LinkedIn
  
   ---
  
