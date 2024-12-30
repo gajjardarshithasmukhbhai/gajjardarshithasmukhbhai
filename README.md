@@ -12,18 +12,18 @@ Hey there 👋,
 I create App, Website and open source packages mainly about Javascript. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on [http://darshitgajjar.com/](http://darshitgajjar.com/). If you found value in something I have created, please feel free to send a Message in LinkedIn (https://www.linkedin.com/in/darshit-gajjar-532098152/), give some ♥ on LinkedIn
 
 ---
-
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
-
-
 ### Dev Growth
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gajjardarshithasmukhbhai&theme=xcode&hide_border=true" />
   </div>
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+
+
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+
 ### 100 projects Experience
 
 I love open source Technology. I have Good Experience making android app and build Scalable Web-App. I have Good Experience in REACT JS, ANGULAR 8.0, REACT NATIVE, FIREBASE and AI. I have done 72 projects in various technology like php, Mern stack, Mean stack and React native also but currently you see few of my projects because other projects are private mode.In private mode my diffrent api and other projects are running
