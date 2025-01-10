@@ -12,7 +12,7 @@ Hey there 👋,
 I create App, Website and open source packages mainly about Javascript. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on [http://darshitgajjar.com/](http://darshitgajjar.com/). If you found value in something I have created, please feel free to send a Message in LinkedIn (https://www.linkedin.com/in/darshit-gajjar-532098152/), give some ♥ on LinkedIn
 
 ---
-### Dev Growth
+### My OpenSource Contribution Graph
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gajjardarshithasmukhbhai&theme=xcode&hide_border=true" />
