@@ -61,3 +61,5 @@ I write about things I am familiar with, things that trip up folks that I mentor
 ![](https://github-profile-trophy.vercel.app/?username=gajjardarshithasmukhbhai&theme=algolia&no-bg=true&no-frame=true)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/sachindebug/sachindebug/output/snake.svg" alt="Snake animation" />
